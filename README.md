@@ -6,7 +6,8 @@
 # PRT(Peer Review Template)
 - [O]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-        ![1번 사진](./1.png)
+        <img width="364" height="60" alt="image" src="https://github.com/user-attachments/assets/c5737176-0198-40fd-9e46-dddc1e41f98f" />
+
 
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
