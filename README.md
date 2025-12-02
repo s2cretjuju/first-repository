@@ -18,12 +18,13 @@
 새로운 시도 또는 추가 실험을 수행해봤나요?**
         노드에 제시된 파라미터 외에 5가지 다른 하이퍼파라미터 조합으로 추가 실험을 진행하고 그 결과를 명확히 비교했다.
         최종적으로 Accuracy 0.64 을 달성한 파라미터 조합을 명시했다.
+  
         <img width="774" height="860" alt="image" src="https://github.com/user-attachments/assets/9db0a3b0-9b43-4a39-b362-36bd332ca29f" />
         <img width="675" height="131" alt="image" src="https://github.com/user-attachments/assets/4ce7e855-3471-4149-b46e-9b8828ac08f8" />  
         
 - [O]  **4. 회고를 잘 작성했나요?**
 -         아래와 같이 회고를 작성하였다
-         <img width="892" height="530" alt="image" src="https://github.com/user-attachments/assets/43cc249c-5578-49dd-b4cd-3306d914a592" />
+-              <img width="892" height="530" alt="image" src="https://github.com/user-attachments/assets/43cc249c-5578-49dd-b4cd-3306d914a592" />
         
 - [O]  **5. 코드가 간결하고 효율적인가요?**
           이미지 리사이즈 및 데이터 로드 부분을 함수(resize_images, load_data)로 모듈화하여 코드의 중복을 줄였다. 데이터 로드 후 정규화를 수행한 것도 효율적인 데이터 처리 방식으로 보인다.
